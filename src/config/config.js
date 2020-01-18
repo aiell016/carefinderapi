@@ -1,4 +1,4 @@
 // config.js
 module.exports = {
-    'secret': 'uwp'
+    'secret': 'TonysSecretPassPhrase2020!'
 };
