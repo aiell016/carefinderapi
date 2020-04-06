@@ -6,17 +6,17 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^3.0.8",
     "bcryptjs": "^2.4.3",
     "body-parser": "latest",
     "cors": "^2.8.5",
     "debug": "latest",
     "dotenv": "^8.2.0",
     "express": "latest",
-    "helmet": "^3.21.2",
+    "helmet": "^3.22.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.7.9",
-    "morgan": "latest",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0",
     "xml-js": "^1.6.11"
   },
   "engines": {
