@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "helmet": "^3.23.3",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^6.5.2",
+    "mongoose": "^6.12.9",
     "morgan": "^1.10.0",
     "xml-js": "^1.6.11"
   },
